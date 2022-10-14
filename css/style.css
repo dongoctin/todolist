@@ -1,0 +1,24 @@
+html, body {
+	height: 100%;
+}
+
+
+form {
+	width:100%;
+	max-width: 500px;
+}
+
+button[type=button] {
+	border: none;
+	outline:none;
+	margin-left: 5px;
+}
+li {
+	margin-bottom: 10px;
+}
+input[type=checkbox] {
+	position: relative;
+	top: 2px;
+	margin-right: 5px;
+}
+
